@@ -1,0 +1,10 @@
+1: Klasik
+2: Margarita
+3: TurkPizza
+4: Sade Pizza
+11: Zeytin
+12: Mantarlar
+13: Keci Peyniri
+14: Et
+15: Sogan
+16: Misir
